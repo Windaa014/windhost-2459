@@ -8,5 +8,10 @@
     "username": "admin",
     "password": "12345",
     "expires": "2025-05-06T00:00:00Z"
+  },
+  {
+    "username": "pe",
+    "password": "p",
+    "expires": "2025-06-21"
   }
 ]
