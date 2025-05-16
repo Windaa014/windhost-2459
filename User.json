@@ -13,5 +13,10 @@
     "username": "dika",
     "password": "dikapp1",
     "expires": "2025-05-20"
+  },
+  {
+    "username": "dzaki",
+    "password": "dza",
+    "expires": "2025-05-20"
   }
 ]
