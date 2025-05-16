@@ -8,5 +8,10 @@
     "username": "bull",
     "password": "p",
     "expires": "2025-06-06"
+  },
+  {
+    "username": "dika",
+    "password": "dikapp1",
+    "expires": "2025-05-20"
   }
 ]
