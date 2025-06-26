@@ -1,57 +1,26 @@
 [
   {
     "username": "winda",
-    "password": "winda",
-    "expires": "2025-12-12"
+    "password": "sayang123",
+    "expires": "2025-06-30",
+    "cooldown": true
   },
   {
-    "username": "bull",
-    "password": "p",
-    "expires": "2025-06-06"
-  },
-  {
-    "username": "dika",
-    "password": "dikapp1",
-    "expires": "2025-05-20"
+    "username": "admin",
+    "password": "adminku",
+    "expires": "2030-01-01",
+    "cooldown": false
   },
   {
     "username": "dzaki",
-    "password": "dza",
-    "expires": "2025-05-20"
+    "password": "dzk123",
+    "expires": "2024-12-31",
+    "cooldown": true
   },
   {
-    "username": "Keyy1",
-    "password": "keyy12345",
-    "expires": "2025-05-20"
-  },
-  {
-    "username": "xenzy",
-    "password": "ganteng",
-    "expires": "2025-05-20"
-  },
-  {
-    "username": "jalter",
-    "password": "jalter",
-    "expires": "2025-05-25"
-  },
-  {
-    "username": "Lutfhixd",
-    "password": "Lutfhi",
-    "expires": "2025-05-30"
-  },
-  {
-    "username": "orca",
-    "password": "orca",
-    "expires": "2030-05-05"
-  },
-  {
-    "username": "oside",
-    "password": "oside",
-    "expires": "2025-06-21"
-  },
-  {
-    "username": "tescuy",
-    "password": "1",
-    "expires": "2025-06-30"
+    "username": "tanpaCooldown",
+    "password": "bebas",
+    "expires": "2026-01-01",
+    "cooldown": false
   }
 ]
