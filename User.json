@@ -12,15 +12,15 @@
     "cooldown": false
   },
   {
-    "username": "bul",
-    "password": "1",
-    "expires": "2024-12-31",
+    "username": "Rama",
+    "password": "SatriaDr",
+    "expires": "2028-28-28",
     "cooldown": true
   },
   {
-    "username": "tanpaCooldown",
-    "password": "bebas",
-    "expires": "2026-01-01",
-    "cooldown": false
+    "username": "xlyoz",
+    "password": "xlyoz",
+    "expires": "2028-28-28",
+    "cooldown": true
   }
 ]
