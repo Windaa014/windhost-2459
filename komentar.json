@@ -2,6 +2,11 @@
   {
     "nama": "tes",
     "rating": 5,
-    "komentar": "tes"
+    "komentar": "bagus"
+  },
+  {
+    "nama": "anjay",
+    "rating": 5,
+    "komentar": "gege"
   }
 ]
