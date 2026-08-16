@@ -2,5 +2,9 @@
   "KOKOALL10": {
     "diskon": 10,
     "deskripsi": "Diskon Spesial Untuk Hari Ini Saja"
+  },
+  "ABRIASTALOMA": {
+    "diskon": 100,
+    "deskripsi": "Diskon 100%"
   }
 }
